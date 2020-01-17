@@ -1,0 +1,67 @@
+{
+    "shops": [
+        {
+            "address": "91, 1, Kaggadasapura Main Rd, Varsova Layout, C V Raman Nagar, Bengaluru, Karnataka 560093",
+            "id": "001",
+            "image": "",
+            "lat": 12.9858448,
+            "lng": 77.65786,
+            "name": "Cafe Coffee Day",
+            "phone": ""  
+        },
+        {
+            "address": "729, Chinmaya Mission Hospital Rd, Indira Nagar 1st Stage, Stage 1, Indiranagar, Bengaluru, Karnataka 560038",
+            "id": "002",
+            "image": "",
+            "lat": 12.9786244,
+            "lng": 77.636541,
+            "name": "Third Wave Coffee Roasters",
+            "phone": ""
+        },
+        {
+            "address": "Indira Nagar 2 nd main, 13, the cross, Bengaluru, Karnataka 560038",
+            "id": "003",
+            "image": "",
+            "lat": 12.9786244,
+            "lng": 77.636541,
+            "name": "Chetty's Coffee",
+            "phone": ""  
+        },
+        {
+            "address": "59, Shirdi Sai Baba Mandir Rd, Someshvarapura Layout, Jogupalya, Bengaluru, Karnataka 560008",
+            "id": "004",
+            "image": "",
+            "lat": 12.9786244,
+            "lng": 77.636541,
+            "name": "Sendhoor Coffee",
+            "phone": ""
+        },
+        {
+            "address": "5th Main Rd, Behind Post Office, HAL 3rd Stage, Puttappa layout, New Tippasandra, Bengaluru, Karnataka 560075",
+            "id": "005",
+            "image": "",
+            "lat": 12.9786244,
+            "lng": 77.636541,
+            "name": "Coffee Day Fresh 'N Ground",
+            "phone": ""
+        },
+        {
+            "address": "Samrat Building, Ground, 100 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008",
+            "id": "006",
+            "image": "",
+            "lat": 12.9786244,
+            "lng": 77.636541,
+            "name": "Starbucks Coffee",
+            "phone": ""
+        },
+        {
+            "address": "66, Chinmaya Mission Hospital Rd, Binnamangala, Stage 1, Indiranagar, Bengaluru, Karnataka 560038",
+            "id": "007",
+            "image": "",
+            "lat": 12.9786244,
+            "lng": 77.636541,
+            "name": "Suma Coffee Works",
+            "phone": ""
+        }
+    ]
+}
